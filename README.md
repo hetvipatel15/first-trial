@@ -1,3 +1,3 @@
 # first-trial
 this is my first repo <br>
-author - hetvi patel
+author - Hetvi Patel
